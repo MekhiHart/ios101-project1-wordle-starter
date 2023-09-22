@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3E3505072ABD118300DD70D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E3505062ABD118300DD70D6 /* Assets.xcassets */; };
+		3E3505092ABD11DD00DD70D6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E3505082ABD11DD00DD70D6 /* LaunchScreen.storyboard */; };
 		991CEC0629999E2A0095F025 /* KeyboardCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 991CEC0529999E2A0095F025 /* KeyboardCell.swift */; };
 		991CEC0829999ECD0095F025 /* KeyboardController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 991CEC0729999ECD0095F025 /* KeyboardController.swift */; };
 		9953C05529A40AC700247C5B /* BoardController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9953C05429A40AC700247C5B /* BoardController.swift */; };
@@ -45,6 +47,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3E3505062ABD118300DD70D6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3E3505082ABD11DD00DD70D6 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		991CEC0529999E2A0095F025 /* KeyboardCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardCell.swift; sourceTree = "<group>"; };
 		991CEC0729999ECD0095F025 /* KeyboardController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardController.swift; sourceTree = "<group>"; };
 		9953C05429A40AC700247C5B /* BoardController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoardController.swift; sourceTree = "<group>"; };
@@ -126,6 +130,8 @@
 				991CEC0729999ECD0095F025 /* KeyboardController.swift */,
 				996B84B5299990AA00133037 /* Info.plist */,
 				99CF2AA429B0156100B4973F /* DO_NOT_MODIFY */,
+				3E3505062ABD118300DD70D6 /* Assets.xcassets */,
+				3E3505082ABD11DD00DD70D6 /* LaunchScreen.storyboard */,
 			);
 			path = Wordle;
 			sourceTree = "<group>";
@@ -268,6 +274,8 @@
 			files = (
 				996B84B4299990AA00133037 /* LaunchScreen.storyboard in Resources */,
 				996B84B1299990AA00133037 /* Assets.xcassets in Resources */,
+				3E3505072ABD118300DD70D6 /* Assets.xcassets in Resources */,
+				3E3505092ABD11DD00DD70D6 /* LaunchScreen.storyboard in Resources */,
 				996B84AF299990A900133037 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
